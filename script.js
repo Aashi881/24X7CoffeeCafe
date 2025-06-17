@@ -1,13 +1,9 @@
-/**
- * Description placeholder
- *
- * @type {*}
+/* Description placeholder
+
  */
 const crsr = document.querySelector("#cursor");
-/**
- * Description placeholder
- *
- * @type {*}
+/* Description placeholder
+ 
  */
 const blur = document.querySelector("#cursor-blur");
 
